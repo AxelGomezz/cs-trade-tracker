@@ -1,5 +1,6 @@
-*.pyc
-*.pyo
+.idea/
+data/
 __pycache__/
+.log
 .DS_Store
-historial_compras_ventas.db
+Thumbs.db

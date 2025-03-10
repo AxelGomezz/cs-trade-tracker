@@ -1,0 +1,5 @@
+*.pyc
+*.pyo
+__pycache__/
+.DS_Store
+historial_compras_ventas.db
